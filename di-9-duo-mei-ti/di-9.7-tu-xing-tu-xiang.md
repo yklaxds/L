@@ -34,7 +34,7 @@ Olive 视频编辑器（Olive Video Editor）：
 # make install clean
 ```
 
-## 压缩字幕
+## 嵌入字幕
 
 ffmpeg：
 
