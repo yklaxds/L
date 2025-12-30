@@ -54,7 +54,7 @@
 
 |**`7. Boot Options`**|启动参数|
 | :----------: | :----------------------------------------------------------------------- |
-|`1. Back to main menu [Backspace]`|按 **删除键** 可返回上级菜单 |
+|`1. Back to main menu [Backspace]`|按 **Backspace 键** 可返回上级菜单 |
 |`2. Load System Defaults`|恢复默认配置|
 |`3. ACPI`|Advanced Configuration and Power Management Interface，高级配置和电源接口|
 |`4. Safe Mode`|安全模式|
